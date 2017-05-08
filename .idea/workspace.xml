@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd87835c-1a0f-4da9-a0a8-c63a7880e289" name="Default" comment="added gitignore and readme">
+    <list default="true" id="bd87835c-1a0f-4da9-a0a8-c63a7880e289" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -253,7 +253,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494262281962</updated>
-      <workItem from="1494262284410" duration="767000" />
+      <workItem from="1494262284410" duration="788000" />
     </task>
     <task id="LOCAL-00001" summary="added gitignore and readme">
       <created>1494262598088</created>
@@ -269,11 +269,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494263035892</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&#10;workspace.iml">
+      <created>1494263069333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1494263069333</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="767000" />
+    <option name="totallyTimeSpent" value="788000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -318,7 +325,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added gitignore and readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="added gitignore and readme" />
+    <MESSAGE value="&#10;workspace.iml" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;workspace.iml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
